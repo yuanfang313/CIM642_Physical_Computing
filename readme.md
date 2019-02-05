@@ -1,7 +1,7 @@
 # CIM642
 
 ### Week1
-[The Impossible Machine](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/The%20Impossible%20Machine.jpg)
+* [The Impossible Machine](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/The%20Impossible%20Machine.jpg)
 
 
 ### Week2
