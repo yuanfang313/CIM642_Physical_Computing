@@ -22,5 +22,7 @@
 
 * ## Week3
 
+add new features to a button;
+
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw3_one%20button-interface.jpg?raw=true)
 
