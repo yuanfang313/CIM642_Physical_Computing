@@ -8,11 +8,13 @@
   * [Arduino Space Ship Video](https://www.youtube.com/watch?v=jytHs_YT814)
 
   * Inner Structure of Space Ship 
+  
+  * Space Ship Set Up:
 
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw2_Inner%20structure.jpg?raw=true)
 
 
-  * Space Ship Set Up:
+  
 
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw2_spaceship.gif?raw=true)
 
