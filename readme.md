@@ -1,10 +1,10 @@
 # CIM642
 
-### Week1
+## Week1
 * [The Impossible Machine](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/The%20Impossible%20Machine.jpg)
 
 
-### Week2
+## Week2
 * [Arduino Space Ship Video](https://www.youtube.com/watch?v=jytHs_YT814)
 
 * Inner Structure of Space Ship 
@@ -17,6 +17,7 @@
 
 
 
-### Week3
+## Week3
+
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw3_one%20button-interface.jpg?raw=true)
 
