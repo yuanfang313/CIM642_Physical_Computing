@@ -5,11 +5,11 @@
 
 
 * ## Week2
-  * [Arduino Space Ship Video](https://www.youtube.com/watch?v=jytHs_YT814)
+  * [Arduino Space Ship Video;](https://www.youtube.com/watch?v=jytHs_YT814)
 
-  * Inner Structure of Space Ship 
+  * Inner Structure of Space Ship; 
   
-  * Space Ship Set Up:
+  * Space Ship Set Up;
   
   
 
@@ -31,4 +31,8 @@ add new features to a button;
 
 
 * ## Week4
+  * Inner Structure of LOVE-O-METER;
+  
+  * Data in the Serial Monitor;
+  
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw4_Love-o-Meter.jpg?raw=true) --Inner Structure of LOVE-O-METER
