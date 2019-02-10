@@ -33,6 +33,6 @@ add new features to a button;
 * ## Week4
   * Inner Structure of LOVE-O-METER;
   
-  * Data in the Serial Monitor;
+  * [Mission failed! --Wield Data in the Serial Monitor;](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw4_data_in_the_serialMonitor.png)
   
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw4_Love-o-Meter.jpg?raw=true) --Inner Structure of LOVE-O-METER
