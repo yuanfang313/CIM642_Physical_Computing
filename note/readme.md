@@ -16,7 +16,8 @@ continous changing values v.s. discrete values;
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/week4/img2.jpg?raw=true)
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/week4/note2.jpg?raw=true)
 
-### 3.Code
+### [3.Code](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Arduino/practice0209/practice0209.ino)
+
 [1) digitalWrite](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/week4/classCode_1.JPG?raw=true)
 
 [2) analogWrite](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/week4/classCode_2.JPG?raw=true)
