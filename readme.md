@@ -13,12 +13,12 @@
   
   
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw2_Inner%20structure.jpg?raw=true) --Inner Structure of Space Ship
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw2_Inner%20structure.jpg?raw=true) --Inner Structure of Space Ship
 
 
   
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw2_spaceship.gif?raw=true) --Space Ship Set Up
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw2_spaceship.gif?raw=true) --Space Ship Set Up
 
 
 
@@ -26,13 +26,13 @@
 
 add new features to a button;
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw3_one%20button-interface.jpg?raw=true)
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw3_one%20button-interface.jpg?raw=true)
 
 
 
 * ## Week4
   * Inner Structure of LOVE-O-METER;
   
-  * [Mission failed! --Wield Data in the Serial Monitor;](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw4_data_in_the_serialMonitor.png)
+  * [Mission failed! --Wield Data in the Serial Monitor;](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_data_in_the_serialMonitor.png?raw=true)
   
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw4_Love-o-Meter.jpg?raw=true) --Inner Structure of LOVE-O-METER
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_Love-o-Meter.jpg?raw=true) --Inner Structure of LOVE-O-METER
