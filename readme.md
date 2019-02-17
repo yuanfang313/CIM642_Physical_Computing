@@ -51,7 +51,7 @@ add new features to a button;
 
   * ### Video
 
-    * [Redo: LOVE-O-METER Video;](https://www.youtube.com/watch?v=fzuatgVOxVE);
+    * [Redo: LOVE-O-METER Video](https://www.youtube.com/watch?v=fzuatgVOxVE);
     * [Tone Exercise (without limit) Video](https://www.youtube.com/watch?v=fzuatgVOxVE);
     * [Tone Exercise(with limit:30-300) Video](https://www.youtube.com/watch?v=frrKXPU_hx0);
     * [switchMode Exercise(with "bool trigger") Video](https://www.youtube.com/watch?v=vbTHiG0dfOY);
@@ -65,5 +65,5 @@ add new features to a button;
   
      * #### switchMode Exercise
   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw5_switchMode%20Exercise-s.jpg?raw=true)
-    
+   
 
