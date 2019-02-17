@@ -7,13 +7,13 @@
 * ## Week2
   * [Arduino Space Ship Video;](https://www.youtube.com/watch?v=jytHs_YT814)
 
-  * Inner Structure of Space Ship; 
+  * BreadBoard of Space Ship; 
   
   * Space Ship Set Up;
   
   
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw2_Inner%20structure.jpg?raw=true) --Inner Structure of Space Ship
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw2_Inner%20structure.jpg?raw=true) --BreadBoard of Space Ship
 
 
   
@@ -31,7 +31,7 @@ add new features to a button;
 
 
 * ## Week4
-  * Inner Structure of LOVE-O-METER;
+  * BreadBoard of LOVE-O-METER;
   
   * [Mission failed! --Wield Data in the Serial Monitor;](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_data_in_the_serialMonitor.png?raw=true)
   
@@ -39,18 +39,31 @@ add new features to a button;
      
   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_reason%20of%20mission%20failed.png?raw=true)
   
-  * Inner Structure of COLOR MIXING LAMP;
+  * BreadBoard of COLOR MIXING LAMP;
   
   * [Color Mixing Lamp Video;](https://www.youtube.com/watch?v=FOUSL9VOmBw)
  
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_Love-o-Meter.jpg?raw=true) --Inner Structure of LOVE-O-METER
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_ColorMixingLamp-Structure_s.jpg?raw=true)--Inner Structure of COLOR MIXING LAMP
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_ColorMixingLamp-Structure_s.jpg?raw=true)--BreadBoard of COLOR MIXING LAMP
 
 * ## Week5
-  * [Redo: LOVE-O-METER Video;](https://www.youtube.com/watch?v=fzuatgVOxVE);
-  * [Tone Exercise (without limit) Video](https://www.youtube.com/watch?v=fzuatgVOxVE);
-  * [Tone Exercise(with limit:30-300) Video](https://www.youtube.com/watch?v=frrKXPU_hx0);
-  * [switchMode Exercise(with "bool trigger") Video](https://www.youtube.com/watch?v=vbTHiG0dfOY);
-  * [switchMode Exercise(without "bool trigger") Video](https://www.youtube.com/watch?v=DXNvBppSa7k);
+
+  * ### Video
+
+    * [Redo: LOVE-O-METER Video;](https://www.youtube.com/watch?v=fzuatgVOxVE);
+    * [Tone Exercise (without limit) Video](https://www.youtube.com/watch?v=fzuatgVOxVE);
+    * [Tone Exercise(with limit:30-300) Video](https://www.youtube.com/watch?v=frrKXPU_hx0);
+    * [switchMode Exercise(with "bool trigger") Video](https://www.youtube.com/watch?v=vbTHiG0dfOY);
+    * [switchMode Exercise(without "bool trigger") Video](https://www.youtube.com/watch?v=DXNvBppSa7k);
+  
+  * ### BreadBoard
+     
+     * #### Tone Exercise 
+      
+  ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw5_Tone%20Exercise-structure-s.jpg?raw=true)
+  
+     * #### switchMode Exercise
+  ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw5_switchMode%20Exercise-s.jpg?raw=true)
+    
 
