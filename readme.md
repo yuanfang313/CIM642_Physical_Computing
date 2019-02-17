@@ -52,7 +52,7 @@ add new features to a button;
   * ### Video
 
     * [Redo: LOVE-O-METER Video](https://www.youtube.com/watch?v=fzuatgVOxVE);
-    * [Tone Exercise (without limit) Video](https://www.youtube.com/watch?v=fzuatgVOxVE);
+    * [Tone Exercise (without limit) Video](https://www.youtube.com/watch?v=x3_jGzqA5C4);
     * [Tone Exercise(with limit:30-300) Video](https://www.youtube.com/watch?v=frrKXPU_hx0);
     * [switchMode Exercise(with "bool trigger") Video](https://www.youtube.com/watch?v=vbTHiG0dfOY);
     * [switchMode Exercise(without "bool trigger") Video](https://www.youtube.com/watch?v=DXNvBppSa7k);
