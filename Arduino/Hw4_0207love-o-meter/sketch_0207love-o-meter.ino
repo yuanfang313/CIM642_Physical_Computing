@@ -1,5 +1,5 @@
 const int sensorPin = A0;
-const float baselineTemp =17.0;
+const float baselineTemp =28.0;
 
 void setup() {
   // put your setup code here, to run once:
@@ -9,9 +9,9 @@ void setup() {
     pinMode(pinNumber, OUTPUT);
     digitalWrite(pinNumber, LOW);}
 
+//pinMode(2, OUTPUT);
 //pinMode(3, OUTPUT);
-//pinMode(5, OUTPUT);
-//pinMode(6, OUTPUT);
+//pinMode(4, OUTPUT);
   
 }
 
@@ -34,18 +34,18 @@ void loop() {
     digitalWrite(2, LOW);
     digitalWrite(3, LOW);
     digitalWrite(4, LOW);
-  } else if (temperature >= baselineTemp + 1 && temperature < baselineTemp + 2) {
+  } else if (temperature >= baselineTemp + 2 && temperature < baselineTemp + 4) {
     digitalWrite(2, HIGH);
     digitalWrite(3, LOW);
     digitalWrite(4, LOW);
 
-  } else if (temperature >= baselineTemp + 2 && temperature < baselineTemp + 3) {
+  } else if (temperature >= baselineTemp + 4 && temperature < baselineTemp + 6) {
     digitalWrite(2, HIGH);
     digitalWrite(3, HIGH);
     digitalWrite(4, LOW);
 
 
-  } else if (temperature >= baselineTemp + 3) {
+  } else if (temperature >= baselineTemp + 6) {
     digitalWrite(2, HIGH);
     digitalWrite(3, HIGH);
     digitalWrite(4, HIGH);
