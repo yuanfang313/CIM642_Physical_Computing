@@ -35,6 +35,8 @@ add new features to a button;
   
   * [Mission failed! --Wield Data in the Serial Monitor;](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_data_in_the_serialMonitor.png?raw=true)
   
+     Reason: confusing "Temperature Sensor" with "Transistor";
+  
   * Inner Structure of COLOR MIXING LAMP;
   
   * [Color Mixing Lamp Video;](https://www.youtube.com/watch?v=FOUSL9VOmBw)
