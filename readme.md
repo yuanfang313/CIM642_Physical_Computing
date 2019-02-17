@@ -46,3 +46,7 @@ add new features to a button;
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_Love-o-Meter.jpg?raw=true) --Inner Structure of LOVE-O-METER
 
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_ColorMixingLamp-Structure_s.jpg?raw=true)--Inner Structure of COLOR MIXING LAMP
+
+* ## Week5
+  * [Redo LOVE-O-METER;]()
+
