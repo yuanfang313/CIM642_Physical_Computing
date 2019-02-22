@@ -3,7 +3,7 @@ const int sensorPin = A0;
 const float baselineTemp =28.0;
 
 void setup() {
-  // put your setup code here, to run once:
+ 
   Serial.begin(9600);
 
   for (int pinNumber = 2; pinNumber < 5; pinNumber++) {
@@ -17,7 +17,7 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+
   int sensorVal = analogRead(sensorPin);
   Serial.print("Sensor Value:");
   Serial.print(sensorVal);
