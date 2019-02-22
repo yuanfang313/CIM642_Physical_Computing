@@ -1,3 +1,4 @@
+```
 int tonePin = 8;
 int photoPin = A0;
 int photoRead = 0;
@@ -34,3 +35,5 @@ void loop() {
   //output
   tone(tonePin, mapped, 100);
 }
+
+```
