@@ -55,16 +55,14 @@ add new features to a button;
   * ### Video
 
     * [Redo: LOVE-O-METER Video](https://www.youtube.com/watch?v=fzuatgVOxVE);
-    
     [[-code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw4_0207love-o-meter)
     * [Tone Exercise (without limit) Video](https://www.youtube.com/watch?v=x3_jGzqA5C4);
     * [Tone Exercise(with limit:30-300) Video](https://www.youtube.com/watch?v=frrKXPU_hx0);
-    
     [[-code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw5_Tone_Exercise-with_limit__30-300_)
     * [switchMode Exercise(with "bool trigger") Video](https://www.youtube.com/watch?v=vbTHiG0dfOY);
+    [[-code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw5_0217switchMode_Exercise)
     * [switchMode Exercise(without "bool trigger") Video](https://www.youtube.com/watch?v=DXNvBppSa7k);
     
-    [[-code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw5_0217switchMode_Exercise)
   
   * ### BreadBoard
      
