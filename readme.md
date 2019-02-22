@@ -18,7 +18,8 @@
 
   
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw2_spaceship.gif?raw=true) --Space Ship Set Up
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw2_spaceship.gif?raw=true) 
+[[--Code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw2_0131Spaceship_Interface)
 
 
 
@@ -45,17 +46,25 @@ add new features to a button;
  
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_Love-o-Meter.jpg?raw=true) --BreadBoard of LOVE-O-METER
 
+
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_ColorMixingLamp-Structure_s.jpg?raw=true)--BreadBoard of COLOR MIXING LAMP
+[[--Code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw4_0214Color_Mixing_Lamp)
 
 * ## Week5
 
   * ### Video
 
     * [Redo: LOVE-O-METER Video](https://www.youtube.com/watch?v=fzuatgVOxVE);
+    
+    [[-code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw4_0207love-o-meter)
     * [Tone Exercise (without limit) Video](https://www.youtube.com/watch?v=x3_jGzqA5C4);
     * [Tone Exercise(with limit:30-300) Video](https://www.youtube.com/watch?v=frrKXPU_hx0);
+    
+    [[-code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw5_Tone_Exercise-with_limit__30-300_)
     * [switchMode Exercise(with "bool trigger") Video](https://www.youtube.com/watch?v=vbTHiG0dfOY);
     * [switchMode Exercise(without "bool trigger") Video](https://www.youtube.com/watch?v=DXNvBppSa7k);
+    
+    [[-code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw5_0217switchMode_Exercise)
   
   * ### BreadBoard
      
