@@ -66,10 +66,7 @@ void loop() {
 
 }
 
-
-
-
-
+//---2---//
 //  else if (counter == 3) {
 //
 //    if (millis() - prevMillis >= interval) {
