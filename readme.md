@@ -94,8 +94,9 @@ add new features to a button;
    
   ### 2_Electronic Stapler
   
-  **Senario:** when users slip a stack of papers in the mouth of the stapler, it injects staples automatically ;
- *  **Passitive Input;** 
+ **Senario:** when users slip a stack of papers in the mouth of the stapler, it injects staples automatically ;
+ 
+  * **Passitive Input;** 
     
     *  **Sensor:** may be a sensor that's sensitive to light, like phototransistors ;
      
@@ -109,7 +110,7 @@ add new features to a button;
   
   ### 3_The Turnstile at the entrance of library      
       
-  **Senario:** when users swip their cards, the force added on the levels of turnstile will be release, and users can push in through turnstile;
+ **Senario:** when users swip their cards, the force added on the levels of turnstile will be release, and users can push in through turnstile;
    
    *  **Passitive Input;**
     
@@ -123,7 +124,7 @@ add new features to a button;
    
   ### 4_The Ceiling light in the Book Deposit Area
    
-  **Senario:** when users walk in a certain area in the Book Deposit in the library, the ceiling light will be awaked immediately;
+**Senario:** when users walk in a certain area in the Book Deposit in the library, the ceiling light will be awaked immediately;
    
    *  **Passitive Input;**
     
