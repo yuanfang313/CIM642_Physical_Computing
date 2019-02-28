@@ -98,11 +98,11 @@ add new features to a button;
  
   * **Passitive Input;** 
     
-    *  **Sensor:** may be a sensor that's sensitive to light, like phototransistors ;
+  *  **Sensor:** may be a sensor that's sensitive to light, like phototransistors ;
      
-     *  **Trigger:** a stack of paper is sliped in the mouth of the stapler;
+  *  **Trigger:** a stack of paper is sliped in the mouth of the stapler;
      
-     *  **Active Output:** a stape injects out while the led on the stapler lighing;
+  *  **Active Output:** a stape injects out while the led on the stapler lighing;
     
   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw6_electronic%20stapler.jpg?raw=true)
     
