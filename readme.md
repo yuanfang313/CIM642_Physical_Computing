@@ -75,6 +75,7 @@ add new features to a button;
   
  * ## Week6
    * ### Anti-theft Shopping Carts
+   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw6_anti-theft%20shopping%20cart.png?raw=true)
    
      **Senario:** when users walk with the shopping carts about to cross a certain perimeter around a grocery, the wheels of the carts will lock automatically; 
      *  **Active Input;**
