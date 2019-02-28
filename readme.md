@@ -1,5 +1,16 @@
 # CIM642_Physical Computing-Hw
 
+***
+
+* [Week1](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week1)
+* [Week2](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week2)
+* [Week3](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week3)
+* [Week4](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week4)
+* [Week5](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week5)
+* [Week6](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week6)
+
+***
+
 * ## Week1
   * [The Impossible Machine](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/The%20Impossible%20Machine.jpg)
 
