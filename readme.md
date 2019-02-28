@@ -89,7 +89,10 @@ add new features to a button;
       
    * ### Electronic Stapler
    
-   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw6_electronic%20stapler.jpg?raw=true)
+   <p align = "left">
+ <img width = 300  src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw6_electronic%20stapler.jpg?raw=true ">
+ </p>
+   
    
      **Senario:** when users slip a stack of papers in the mouth of the stapler, it injects staples automatically ; 
      *  **Passitive Input;**
