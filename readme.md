@@ -9,7 +9,7 @@
 * [Week4](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week4)
 * [Week5](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week5)
 * [Week6](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week6)
-* [Week7](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week6)
+* [Week7_midterm](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week7_midterm)
 
 ***
 
@@ -183,7 +183,7 @@ add new features to a button;
    
    &nbsp;
    
-* ## Week7_Midterm
+## Week7_Midterm
    
    0303_Midterm Exercise 1__Breath Accelerating [[Video]](https://www.youtube.com/watch?v=xwx0PsnR0Ms) 
    
