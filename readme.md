@@ -14,8 +14,11 @@
 ***
 
 * ## Week1 
-    
+
   * [The Impossible Machine](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/The%20Impossible%20Machine.jpg)
+  
+[[back]](https://github.com/yuanfang313/CIM642_Physical_Computing#content)
+&nbsp;
 
 * ## Week2
   * [Arduino Space Ship Video;](https://www.youtube.com/watch?v=jytHs_YT814)
@@ -24,17 +27,14 @@
   
   * Space Ship Set Up;
   
-  
-
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw2_Inner%20structure.jpg?raw=true) --BreadBoard of Space Ship
 
-
-  
 
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw2_spaceship.gif?raw=true) 
 [[--Code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw2_0131Spaceship_Interface)
 
-
+[[back]](https://github.com/yuanfang313/CIM642_Physical_Computing#content)
+&nbsp;
 
 * ## Week3
 
@@ -42,7 +42,8 @@ add new features to a button;
 
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw3_one%20button-interface.jpg?raw=true)
 
-
+  [[back]](https://github.com/yuanfang313/CIM642_Physical_Computing#content)
+&nbsp;
 
 * ## Week4
   * BreadBoard of LOVE-O-METER;
@@ -59,9 +60,11 @@ add new features to a button;
  
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_Love-o-Meter.jpg?raw=true) --BreadBoard of LOVE-O-METER
 
-
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw4_ColorMixingLamp-Structure_s.jpg?raw=true)--BreadBoard of COLOR MIXING LAMP
 [[--Code]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Arduino/Hw4_0214Color_Mixing_Lamp)
+
+[[back]](https://github.com/yuanfang313/CIM642_Physical_Computing#content)
+&nbsp;
 
 * ## Week5
 
@@ -86,6 +89,9 @@ add new features to a button;
      * #### switchMode Exercise
   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Hw5_switchMode%20Exercise-s.jpg?raw=true)
   
+[[back]](https://github.com/yuanfang313/CIM642_Physical_Computing#content)
+&nbsp;
+
  * ## Week6
  
    ### --Knock Lock [[Video]](https://www.youtube.com/watch?v=6pZpxB63ZYg)
@@ -181,7 +187,8 @@ add new features to a button;
    
    *  **Active Output:** the door open;
    
-   &nbsp;
+[[back]](https://github.com/yuanfang313/CIM642_Physical_Computing#content)
+&nbsp;
    
 ## Week7_Midterm
    
@@ -190,6 +197,9 @@ add new features to a button;
    <p align = "left">
     <img width = 500 src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/0303_Midterm_Breath_Accelerating_Exercise.JPG?raw=true">
     </p>
+    
+[[back]](https://github.com/yuanfang313/CIM642_Physical_Computing#content)
+&nbsp;
    
      
    
