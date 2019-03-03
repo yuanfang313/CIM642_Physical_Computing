@@ -180,6 +180,10 @@ add new features to a button;
    
    *  **Active Output:** the door open;
    
+   * ## Week7_Midterm
+   
+   0303_Midterm Exercise 1__Breath Accelerating
+   
      
    
 
