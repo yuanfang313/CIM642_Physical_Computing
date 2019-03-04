@@ -192,7 +192,7 @@ add new features to a button;
    
 ## Week7_Midterm
    
-   #### 0303_Midterm Exercise 1__Breath Accelerating [[Video]](https://www.youtube.com/watch?v=xwx0PsnR0Ms) 
+   ### 0303_Midterm Exercise 1__Breath Accelerating [[Video]](https://www.youtube.com/watch?v=xwx0PsnR0Ms) 
    
    <p align = "left">
     <img width = 500 src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/0303_Midterm_Breath_Accelerating_Exercise.JPG?raw=true">
@@ -200,7 +200,7 @@ add new features to a button;
     
    &nbsp; 
    
- #### 0303_Midterm Exercise 1__Breath Accelerating [[Video]](https://www.youtube.com/watch?v=RHlMtE3KQMU&feature=youtu.be)    
+ ### 0303_Midterm Exercise 2__Multiple Color [[Video]](https://www.youtube.com/watch?v=RHlMtE3KQMU&feature=youtu.be)    
  <p align = "left">
     <img width = 500 src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/0303_Midterm_Mutiple_%20Color_Exercise.jpg?raw=true">
     </p>
