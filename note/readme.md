@@ -41,9 +41,29 @@ continous changing values v.s. discrete values;
 
 ### Week06_0221
 
-### Week07_0228
+## Week07_0228
 
-### Week08_0307
+## Week08_0307
+
+* ### One Button Exercise
+
+"Press the button" is a behavior that we normaly would say in the daily life. 
+
+However, think again about this behavior -- look it as a more microcosmic way. Then you would probaly say, "I press and release the button" (which is so inappropriate to say in normal context, ulessing you're making a joke!)
+
+But for computers to understand the behavior, "press the button", sometimes the nerdy expression, "press and release the button" is still not enough.
+
+In order to let computer execute certain instructions triggering by INPUT, we need to know exactly how computers interpretate our behaviors (INPUT).
+
+
+<p align = "left">
+  
+  <img width = 500 src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/2OneButtonExercise__Computer%20Interpretation.png?raw=true">
+  
+  </p>
+  
+So you can see computer interpretates the behavior "press the button" as a sequence of "0 & 1". 
+And the reson that there are more then one "0" or "1" when the button pressed or released is that the satus of the button is checked every serial.
 
 ### Week09_0314
 
