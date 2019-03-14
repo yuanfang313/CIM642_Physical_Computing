@@ -40,8 +40,7 @@ continous changing values v.s. discrete values;
   * 2-3. differentiate different **GROUPS**(different numbers of "presses" within a certain time range) of presses;
    
 &nbsp;  
-&nbsp; 
-&nbsp; 
+
 
 ### 0. Interpretation;
 "Press the button" is a behavior that we normaly would say in the daily life. 
