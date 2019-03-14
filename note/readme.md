@@ -82,7 +82,12 @@ And the reson that there are more then one "0" or "1" when the button pressed or
 
 
   * 2-1. differentiate different presses by the **LENGTH** of each press;
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/OneButtonExercise_length.png?raw=true)
+
+&nbsp;
+
   * 2-2. differentiate different presses by their **ORDER**;
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/OneButtonExercise__order.png?raw=true)
   * 2-3. differentiate different **GROUPS**(different numbers of "presses" within a certain time range) of presses;
    
 
