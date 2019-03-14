@@ -9,7 +9,7 @@
 * [Week4](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week4)
 * [Week5](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week5)
 * [Week6](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week6)
-* [Week7_midterm](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week7_midterm)
+* [Week7-Week9_midterm](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week7_midterm)
 
 ***
 
