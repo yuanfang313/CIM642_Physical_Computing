@@ -43,16 +43,20 @@ continous changing values v.s. discrete values;
 
 ## Week07_0228
 
-## Week08_0307
+## Week08_0307_One Button Exercise
 
-* ### One Button Exercise
+### 0. Interpretation;
+### 1. One press on one button;
+### 2. Several presses on one button;
+  * 2-1. differentiate different presses by the **LENGTH** of each press;
+  * 2-2. differentiate different presses by their **ORDER**;
+  * 2-3. differentiate different **GROUPS**(different numbers of "presses" within a certain time range) of presses;
+   
+&nbsp;  
+&nbsp; 
+&nbsp; 
 
- * #### One press on one button;
- * #### Several presses on one button;
-   * differentiate different presses by the **LENGTH** of each press;
-   * differentiate different presses by their **ORDER**;
-   * differentiate different **GROUPS**(different numbers of "presses" within a certain time range) of presses;
-
+### 0. Interpretation;
 "Press the button" is a behavior that we normaly would say in the daily life. 
 
 However, think again about this behavior -- look it as a more microcosmic way. Then you would probaly say, "I press and release the button" (which is so inappropriate to say in normal context, ulessing you're making a joke!)
@@ -70,6 +74,17 @@ In order to let computer execute certain instructions triggering by INPUT, we ne
   
 So you can see computer interpretates the behavior "press the button" as a sequence of "0 & 1". 
 And the reson that there are more then one "0" or "1" when the button pressed or released is that the satus of the button is checked every serial.
+
+### 1. One press on one button;
+
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/OneButtonExercise_Press%20&%20Release%20.png?raw=true)
+### 2. Several presses on one button;
+
+
+  * 2-1. differentiate different presses by the **LENGTH** of each press;
+  * 2-2. differentiate different presses by their **ORDER**;
+  * 2-3. differentiate different **GROUPS**(different numbers of "presses" within a certain time range) of presses;
+   
 
 ### Week09_0314
 
