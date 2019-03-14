@@ -66,7 +66,7 @@ But for computers to understand the behavior, "press the button", sometimes the 
 In order to let computer execute certain instructions triggering by INPUT, we need to know exactly how computers interpretate our behaviors (INPUT).
 
 
-<p align = "left">
+<p align = "center">
   
   <img width = 500 src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/2OneButtonExercise__Computer%20Interpretation.png?raw=true">
   
@@ -92,7 +92,12 @@ And the reson that there are more then one "0" or "1" when the button pressed or
 
 * 2-2. Practice;
 
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/practices.png?raw=true)
+<p align = "center">
+  
+  <img width = 500 src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/practices.png?raw=true">
+  
+  </p>
+
 
   * 2-3. differentiate different **GROUPS**(different numbers of "presses" within a certain time range) of presses;
    
