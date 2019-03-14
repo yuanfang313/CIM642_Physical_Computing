@@ -47,6 +47,12 @@ continous changing values v.s. discrete values;
 
 * ### One Button Exercise
 
+ * #### One press on one button;
+ * #### Several presses on one button;
+   * differentiate different presses by the **LENGTH** of each press;
+   * differentiate different presses by their **ORDER**;
+   * differentiate different **GROUPS**(different numbers of "presses" within a certain time range) of presses;
+
 "Press the button" is a behavior that we normaly would say in the daily life. 
 
 However, think again about this behavior -- look it as a more microcosmic way. Then you would probaly say, "I press and release the button" (which is so inappropriate to say in normal context, ulessing you're making a joke!)
