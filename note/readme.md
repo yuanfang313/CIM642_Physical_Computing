@@ -1,12 +1,6 @@
 
 # CIM642_Physical Computing
 
-## Week01_0117
-
-## Week02_0124
-
-## Week03_0131
-
 ## Week04_0207
 
 ### 1.What is potentiometer?
@@ -35,13 +29,6 @@ continous changing values v.s. discrete values;
 [[2]](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/week4/note1.jpg?raw=true)
 [[3]](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/week4/note3.JPG?raw=true)
 
-
-
-### Week05_0214
-
-### Week06_0221
-
-## Week07_0228
 
 ## Week08_0307_One Button Exercise
 
