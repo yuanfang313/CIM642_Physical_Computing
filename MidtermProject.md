@@ -1,4 +1,6 @@
 # Midterm Project
+&nbsp;
+&nbsp;
 
 * ## What is my project?
 
