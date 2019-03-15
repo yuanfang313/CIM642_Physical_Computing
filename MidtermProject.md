@@ -7,8 +7,6 @@ But it also can be a toy for children.
 
 
 * ## Projects that gave my inspiration
-&nbsp;
-
 
  ## [Journey]
 
