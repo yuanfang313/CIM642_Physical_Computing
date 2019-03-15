@@ -23,7 +23,14 @@ But it also can be a toy for children.
   
   &nbsp;
   
-## [Tree]  
+## [Tree]
+
+#### 1. TreeSense
+http://www.qianyedan.com/treesense#angl-video
+
+#### 2. MIT Media Lab_If you were a tree
+https://www.media.mit.edu/posts/tree-treesense/
+
   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/Insperation02_Tree.png?raw=true)
   
   &nbsp;
