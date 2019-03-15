@@ -11,7 +11,13 @@ But it also can be a toy for children.
 * ## Projects that gave my inspiration
 
  ## [Journey]
-
+  
+  #### 1. Journey - Gameplay / Playthrough (No Commentary)
+ https://www.youtube.com/watch?v=bkL94nKSd2M
+ 
+  
+  #### 2. Journey Game Creator Jenova Chen "Theories Behind Journey"
+ https://www.youtube.com/watch?v=S684RQHzmGA&t=29s
 
   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/Insperation01_journey.png?raw=true)
   
