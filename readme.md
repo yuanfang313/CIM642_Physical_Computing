@@ -206,7 +206,10 @@ add new features to a button;
     </p>
     
 [[back]](https://github.com/yuanfang313/CIM642_Physical_Computing#content)
+
 &nbsp;
+### 0309_One Button Exercise [[Link]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/note#week08_0307_one-button-exercise)
+
    
      
    
