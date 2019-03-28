@@ -78,10 +78,12 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 # 3. Components
 
  ## 3-1. What parts did you use?
+ 
+ ## 3-2. Which are your inputs/outputs?
+ 
+ * INPUT: piezo;
 
-In my proposal, I used the word "Hatch", but I found the temperature of our hands was not high enough to make so many animation inside an encased object. So I changed the verb in the title.
-
-## 3-2. Which are your inputs/outputs?
+ * OUTPUT: led: Red & blue; servo;
 
 &nbsp;
 &nbsp;
@@ -97,19 +99,41 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
  
  ### 4-1-1. Create a layout for your interface
  
+ 
+ 
  ### 4-1-2. Storyboard the interaction
  
 * Draw a step by step diagram of the interaction
 
 * Explain how the project is used?
-  * How does the user interact with the input
-  * Why did you decide to use that component?
-  * Explain how the input translates to the output
+
+  * **How does the user interact with the input?
+  
+  A: Watch the egg and knock it!
+  
+  * **Why did you decide to use that component?
+  
+  A: I don't want any components extruding the egg, so I excluded any forms of potentiometer and button.
+  Therefore I need to make my choice within temperature sensor, sound sensor(piezo), photoresistor.
+  
+  I think all these three inputs, temperature, sounds, lights will make a well responding egg, but based my skills and tools currently, setting my inputs as "sounds" is the best choice.
+  
+  * **Explain how the input translates to the output
+  
+  A: The piezo that attached inside the shell of the egg analogRead the values of knocks from users, which are translated to the values analogWrite by servo and led inside.
 
 
 ## 4-2. Talk about what form factor/size your project would ideally be.
+
+The ideal size of the egg would be the size that audience can hold it with one hand.
+
 ### 4-2-1. What worked/did not work?
+
+I'd expected more events happenging inside (or from) the egg, but the space inside is too small. The effects that I currently can accomplish are already used up all space on my tiny breadboard in the egg.
+
 ### 4-2-2. If you had more time what would you change in your project?
+
+I want to make a tail and two legs on my egg!
 
 &nbsp;
 &nbsp;
@@ -120,9 +144,7 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 
  ## 5-1. Include images and captions
 
-In my proposal, I used the word "Hatch", but I found the temperature of our hands was not high enough to make so many animation inside an encased object. So I changed the verb in the title.
-
-## 5-2. A video of finished project
+ ## 5-2. A video of finished project
 
 
 
