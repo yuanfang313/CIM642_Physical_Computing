@@ -53,7 +53,57 @@ https://www.media.mit.edu/posts/tree-treesense/
 ### [The Man from Earth]
 https://www.youtube.com/watch?v=9mOIxyRTY5I
 
-This movie is just an example of any movies that're carefully planning the emotions of audience into its storytelling process. I expecially chose _The Man from Earth_ because it creates so many different emotions just within 1.5 hours and that tiny space, which I may have already forgotten its contents but still vividly remember all the emotions it rooted inside my heart.       
+This movie is just an example of any movies that're carefully planning the emotions of audience into its storytelling process. I expecially chose _The Man from Earth_ because it creates so many different emotions just within 1.5 hours and that tiny space, which I may have already forgotten its contents but still vividly remember all the emotions it rooted inside my heart. 
+
+
+# 2. Code
+
+ ## 2-1. How does your program work?
+
+In my proposal, I used the word "Hatch", but I found the temperature of our hands was not high enough to make so many animation inside an encased object. So I changed the verb in the title.
+
+## 2-2. Reflection
+### 2-2-1. What worked/did not work?
+### 2-2-2. If you had more time what would you change in your project?
+
+# 3. Components
+
+ ## 3-1. What parts did you use?
+
+In my proposal, I used the word "Hatch", but I found the temperature of our hands was not high enough to make so many animation inside an encased object. So I changed the verb in the title.
+
+## 3-2. Which are your inputs/outputs?
+
+# 4. Code
+
+ ## 4-1. Explain how a user interacts with your input/output
+ 
+ ### 4-1-1. Create a layout for your interface
+ 
+ ### 4-1-2. Storyboard the interaction
+ 
+* Draw a step by step diagram of the interaction
+
+* Explain how the project is used?
+  * How does the user interact with the input
+  * Why did you decide to use that component?
+  * Explain how the input translates to the output
+
+
+## 4-2. Talk about what form factor/size your project would ideally be.
+### 4-2-1. What worked/did not work?
+### 4-2-2. If you had more time what would you change in your project?
+
+# 5. Code
+
+ ## 5-1. Include images and captions
+
+In my proposal, I used the word "Hatch", but I found the temperature of our hands was not high enough to make so many animation inside an encased object. So I changed the verb in the title.
+
+## 5-2. A video of finished project
+
+
+
 
 
 * ## Proposal
