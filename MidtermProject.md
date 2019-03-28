@@ -57,6 +57,8 @@ This movie is just an example of any movies that're carefully planning the emoti
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 # 2. Code
 
@@ -70,6 +72,8 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 # 3. Components
 
@@ -79,6 +83,8 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 
 ## 3-2. Which are your inputs/outputs?
 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -102,6 +108,8 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 ### 4-2-1. What worked/did not work?
 ### 4-2-2. If you had more time what would you change in your project?
 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
