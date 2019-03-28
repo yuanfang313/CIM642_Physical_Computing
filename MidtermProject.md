@@ -107,18 +107,18 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 
 * Explain how the project is used?
 
-  * **How does the user interact with the input?
+  * **How does the user interact with the input?**
   
   A: Watch the egg and knock it!
   
-  * **Why did you decide to use that component?
+  * **Why did you decide to use that component?**
   
   A: I don't want any components extruding the egg, so I excluded any forms of potentiometer and button.
   Therefore I need to make my choice within temperature sensor, sound sensor(piezo), photoresistor.
   
   I think all these three inputs, temperature, sounds, lights will make a well responding egg, but based my skills and tools currently, setting my inputs as "sounds" is the best choice.
   
-  * **Explain how the input translates to the output
+  * **Explain how the input translates to the output**
   
   A: The piezo that attached inside the shell of the egg analogRead the values of knocks from users, which are translated to the values analogWrite by servo and led inside.
 
