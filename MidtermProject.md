@@ -1,25 +1,27 @@
-# Midterm Project
+# Midterm Project_Wake Up An Egg!
 &nbsp;
 &nbsp;
 
-* ## What is the title of my project?
+# 1. About the project
+
+ ## 1-1. What is the title of my project?
 
 ### Wake Up An Egg!
 
 In my proposal, I used the word "Hatch", but I found the temperature of our hands was not high enough to make so many animation inside an encased object. So I changed the verb in the title.
 
-* ## Briefly explain why did you want to make this project?
+## 1-2. Briefly explain why did you want to make this project?
 
 The reason that I want to make this project is that I want to exlore how to influence my audience emotionly.
 In the process of **"hatch" or "wake up"** the egg, I expect some emotions are also **"hatching" or "waking up"** inside themselves.
 
-### 1. Who are the stakeholders?
+### 1-2-1. Who are the stakeholders?
 
 Basically, my project is an egg that provides an experience of hatching it for visitors in the exhibitions.
 But it also can be a toy for children.
 
 
-### 2. Find 3 inspiring projects
+### 1-2-2. Find 3 inspiring projects
 
 In fact, any thing that enable certain sets(sequences) of emotions growing inside audiences I'd saw is one part of my inspiration of this project.
 
