@@ -55,6 +55,8 @@ https://www.youtube.com/watch?v=9mOIxyRTY5I
 
 This movie is just an example of any movies that're carefully planning the emotions of audience into its storytelling process. I expecially chose _The Man from Earth_ because it creates so many different emotions just within 1.5 hours and that tiny space, which I may have already forgotten its contents but still vividly remember all the emotions it rooted inside my heart. 
 
+&nbsp;
+&nbsp;
 
 # 2. Code
 
@@ -66,6 +68,9 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 ### 2-2-1. What worked/did not work?
 ### 2-2-2. If you had more time what would you change in your project?
 
+&nbsp;
+&nbsp;
+
 # 3. Components
 
  ## 3-1. What parts did you use?
@@ -74,7 +79,10 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 
 ## 3-2. Which are your inputs/outputs?
 
-# 4. Code
+&nbsp;
+&nbsp;
+
+# 4. Interaction
 
  ## 4-1. Explain how a user interacts with your input/output
  
@@ -94,7 +102,10 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 ### 4-2-1. What worked/did not work?
 ### 4-2-2. If you had more time what would you change in your project?
 
-# 5. Code
+&nbsp;
+&nbsp;
+
+# 5. Images and Videos
 
  ## 5-1. Include images and captions
 
