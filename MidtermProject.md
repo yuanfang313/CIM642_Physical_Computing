@@ -92,6 +92,9 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 
  ## 4-1. Explain how a user interacts with your input/output
  
+1. In the defalt mode, the egg breathes peacefully -- users look at it and feel a little curious;
+2. When users knock the egg -- there will be some events happening inside correspondingly -- instant vibrations and flashing lights -- users will feel like they are waking up something.
+ 
  ### 4-1-1. Create a layout for your interface
  
  ### 4-1-2. Storyboard the interaction
