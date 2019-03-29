@@ -20,7 +20,7 @@ The reason that I wanted to make this project is that I want to exlore how to in
 
 And among all the senses of mankind, Sight, Hearing, Tough, Smell and Taste, as there are already so many products or artistic works related with the first two, the sense I'm most interested in currently is "Touch" or its combinations with other senses. 
 
-In the process of **"hatch" or "wake up"** the egg, I expect some emotions are also **"hatching" or "waking up"** inside themselves.
+In the process of **"hatch" or "wake up"** the egg, I expect some emotions are also **"hatching" or "waking up"** inside my audiences.
 
 ### 1-2-1. Who are the stakeholders?
 
