@@ -1,12 +1,16 @@
 # Midterm Project_Wake Up An Egg!
 &nbsp;
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Midterm_01.gif?raw=true)
+
 &nbsp;
 
 # 1. About the project
 
  ## 1-1. What is the title of my project?
+* ### Proposal
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Midterm_proposal.png?raw=true)
 
-### Wake Up An Egg!
+* ### Wake Up An Egg!
 
 In my proposal, I used the word "Hatch", but I found the temperature of our hands was not high enough to make so many animation inside an encased object. So I changed the verb in the title.
 
@@ -36,7 +40,7 @@ In fact, any thing that enable certain sets(sequences) of emotions growing insid
   #### 02. Journey Game Creator Jenova Chen "Theories Behind Journey"
  https://www.youtube.com/watch?v=S684RQHzmGA&t=29s
 
-  ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/Insperation01_journey.png?raw=true)
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Insperation01_journey.png?raw=true)
   
   &nbsp;
   
@@ -48,7 +52,7 @@ http://www.qianyedan.com/treesense#angl-video
 #### 02. MIT Media Lab_If you were a tree
 https://www.media.mit.edu/posts/tree-treesense/
 
-  ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/Insperation02_Tree.png?raw=true)
+  ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Insperation02_Tree.png?raw=true)
   
   &nbsp;
   
@@ -56,6 +60,8 @@ https://www.media.mit.edu/posts/tree-treesense/
 https://www.youtube.com/watch?v=9mOIxyRTY5I
 
 This movie is just an example of any movies that're carefully planning the emotions of audience into its storytelling process. I expecially chose _The Man from Earth_ because it creates so many different emotions just within 1.5 hours and that tiny space, which I may have already forgotten its contents but still vividly remember all the emotions it rooted inside my heart. 
+
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Insperation03_The_Man_from_Earth.png?raw=true)
 
 &nbsp;
 &nbsp;
