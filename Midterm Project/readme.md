@@ -56,10 +56,10 @@ https://www.media.mit.edu/posts/tree-treesense/
   
   &nbsp;
   
-### [The Man from Earth]
+### [Man from Earth]
 https://www.youtube.com/watch?v=9mOIxyRTY5I
 
-This movie is just an example of any movies that're carefully planning the emotions of audience into its storytelling process. I expecially chose _The Man from Earth_ because it creates so many different emotions just within 1.5 hours and that tiny space, which I may have already forgotten its contents but still vividly remember all the emotions it rooted inside my heart. 
+This movie is just an example of any movies that're carefully planning the emotions of audience into its storytelling process. I expecially chose _Man from Earth_ because it creates so many different emotions just within 1.5 hours and that tiny space, which I may have already forgotten its contents but still vividly remember all the emotions it rooted inside my heart. 
 
 ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Insperation03_The_Man_from_Earth.png?raw=true)
 
@@ -170,12 +170,25 @@ The ideal size of the egg would be the size that audience can hold it with one h
 # 5. Images and Videos
 
  ## 5-1. Include images and captions
+ 
+ ### Inner Structure
+ 
+ ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Inner%20Structure.jpg?raw=true)
+ 
+ ### 0303_Midterm Exercise 1__Breath Accelerating [[Video]](https://www.youtube.com/watch?v=xwx0PsnR0Ms) 
+   
+   <p align = "left">
+    <img width = 500 src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/0303_Midterm_Breath_Accelerating_Exercise.JPG?raw=true">
+    </p>
+    
+   &nbsp; 
+   
+ ### 0303_Midterm Exercise 2__Multiple Color [[Video]](https://www.youtube.com/watch?v=RHlMtE3KQMU&feature=youtu.be)    
+ <p align = "left">
+    <img width = 500 src = "https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/0303_Midterm_Mutiple_%20Color_Exercise.jpg?raw=true">
+    </p>
+ 
+ 
 
- ## 5-2. A video of finished project
+ ## 5-2. A video of finished project [[Link]](https://www.youtube.com/watch?v=n6ORIo3roBw&feature=youtu.be)
 
-
-
-
-
-* ## Proposal
-![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/note/Midterm_proposal.png?raw=true)
