@@ -12,13 +12,15 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 
 ## 1-2. Briefly explain why did you want to make this project?
 
-The reason that I want to make this project is that I want to exlore how to influence my audience emotionly.
+The reason that I wanted to make this project is that I want to exlore how to influence my audiences emotionly.
+
+And among all the senses of mankind, Sight, Hearing, Tough, Smell and Taste, as there are already so many products or artistic works related with the first two, the sense I'm most interested in currently is "Touch" or its combinations with other senses. 
+
 In the process of **"hatch" or "wake up"** the egg, I expect some emotions are also **"hatching" or "waking up"** inside themselves.
 
 ### 1-2-1. Who are the stakeholders?
 
-Basically, my project is an egg that provides an experience of hatching it for visitors in the exhibitions.
-But it also can be a toy for children.
+Any human beings.
 
 
 ### 1-2-2. Find 3 inspiring projects
@@ -63,12 +65,35 @@ This movie is just an example of any movies that're carefully planning the emoti
 # 2. Code
 
  ## 2-1. How does your program work?
-
-In my proposal, I used the word "Hatch", but I found the temperature of our hands was not high enough to make so many animation inside an encased object. So I changed the verb in the title.
+ 
+ Before I added servo when I just played with the lights, my codes worked as I expected.
+ 
+ But When servo and piezo were added, and I moved all the components onto the mini breadbord to incase everything inside "the egg", the situation was kind of losing my control.
 
 ## 2-2. Reflection
 ### 2-2-1. What worked/did not work?
+
+**work**
+
+* First trying to use a battery providing electricity, and it worked pretty well;
+
+* First trying to use a mini breadbord, and it worked just well as the standard ones;
+
+
+**did not work**
+
+* The first thing I noticed was that servo would make sounds (little vibrations )before any input happening, which ruined my original concept that the defalt mode is "quiet breath";
+
+* Then when the vibration began, the blue light would shaked with it;
+
+* When the input, knocking, stop, the vibration would continue a little longer;
+
+* Broke one leg of piezo the night before presentation, after which it totally lost of control;
+
+
 ### 2-2-2. If you had more time what would you change in your project?
+
+I want to make a tail, two eyes and two legs on my egg!
 
 &nbsp;
 &nbsp;
@@ -99,13 +124,17 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
  
  ### 4-1-1. Create a layout for your interface
  
- 
+ The interface is the smooth surface of the egg.
  
  ### 4-1-2. Storyboard the interaction
  
-* Draw a step by step diagram of the interaction
+* **Draw a step by step diagram of the interaction**
 
-* Explain how the project is used?
+Knock! -- red light flashing & vibration stronger
+
+* **Explain how the project is used?**
+
+Knock the egg.
 
   * **How does the user interact with the input?**
   
@@ -126,14 +155,6 @@ In my proposal, I used the word "Hatch", but I found the temperature of our hand
 ## 4-2. Talk about what form factor/size your project would ideally be.
 
 The ideal size of the egg would be the size that audience can hold it with one hand.
-
-### 4-2-1. What worked/did not work?
-
-I'd expected more events happenging inside (or from) the egg, but the space inside is too small. The effects that I currently can accomplish are already used up all space on my tiny breadboard in the egg.
-
-### 4-2-2. If you had more time what would you change in your project?
-
-I want to make a tail and two legs on my egg!
 
 &nbsp;
 &nbsp;
