@@ -9,7 +9,9 @@
 * [Week4](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week4)
 * [Week5](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week5)
 * [Week6](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week6)
-* [Week7-Week9_midterm](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week7_midterm)
+* [Week7_Midterm Exercises](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week7_midterm)
+* [Week8_One Button Exercise](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/note#week08_0307_one-button-exercise)
+* [Week9-10 Midterm Project](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Midterm%20Project#midterm-project_wake-up-an-egg)
 
 ***
 
