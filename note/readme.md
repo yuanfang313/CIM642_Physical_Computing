@@ -45,7 +45,7 @@ continous changing values v.s. discrete values;
 ### 0. Interpretation;
 "Press the button" is a behavior that we normaly would say in the daily life. 
 
-However, think again about this behavior -- look it as a more microcosmic way. Then you would probaly say, "I press and release the button" (which is so inappropriate to say in normal context, ulessing you're making a joke!)
+However, think again about this behavior -- look it in a more microcosmic way. Then you would probaly say, "I press and release the button" (which is so inappropriate to say in normal context, uless you're making a joke!)
 
 But for computers to understand the behavior, "press the button", sometimes the nerdy expression, "press and release the button" is still not enough.
 
@@ -59,7 +59,7 @@ In order to let computer execute certain instructions triggering by INPUT, we ne
   </p>
   
 So you can see computer interpretates the behavior "press the button" as a sequence of "0 & 1". 
-And the reson that there are more then one "0" or "1" when the button pressed or released is that the satus of the button is checked every serial.
+And the reason that there are more then one "0" or "1" when the button pressed or released is that the satus of the button is checked every serial.
 
 ### 1. One press on one button;
 
