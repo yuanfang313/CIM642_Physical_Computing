@@ -171,6 +171,9 @@ The ideal size of the egg would be the size that audience can hold it with one h
 
  ## 5-1. Include images and captions
  
+ ### Working Desk
+ ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/image_process.JPG?raw=true)
+ 
  ### Inner Structure
  
  ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Midterm%20Project/Assets/Inner%20Structure.jpg?raw=true)
