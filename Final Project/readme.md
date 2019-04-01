@@ -87,31 +87,26 @@ Obviously, people would have bigger chance to survive by obeying this rules in t
 However, it is very interesting that with the resources and technologies provided by modern society today, most Chinese I think still keep these rules in mind -- maybe subconsciously.
 
 
+All these rules seemed coming from an old phylosophy that we call “天人合一”， which means man is an integral part of nature.
+
+“天人合一” is used to discribe a kind of realm of spirit.
+
+In the surface, I think we can realize it by combining the patterns on ourselves with the patterns of nature.
+
+Flocking pattern of birds or fish or any other creatures is the one of what I'm most interested among all the patterns in nature. It is like the breath of nature. 
+
+By connecting flocking pattern with breath pattern, I want to encourage audiences to discover their own connections with nature, to find the whole nature inside themselves.  
 
 
-
-
-
-  
  &nbsp;
   
  #### 3) How can I combine "flocking" with "breath"?
  
- * **OUTPUT:** First of all, I need to learn the mechanism of opening an robotic eye:
+ * **OUTPUT:** 
  
-``` 
- - the structure that I need to 3D print out;
- - the components that I need to drive the movements of eyeball and eyelid；
+ * **INPUT:** 
  
-```
- 
- 
- * **INPUT:** Second, figure out what kinds of behaviors I want my audiences to perform to control the movements of robotic eyeball and eyelid. How do these behaviors make sense to them?
- 
- ``` 
- - the components (sensers) that I need to trigger the movements of eyeball and eyelid；
- - the locations of these components (sensers)；
-```
+
 #### 4) Storyboard;
  
 &nbsp;
