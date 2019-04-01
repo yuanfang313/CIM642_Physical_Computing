@@ -74,10 +74,21 @@ When audiences breath, they will hear the sound of their breath translated to th
 
 I'm alway interested in one part of Chinese culture, which is ecouraging people to be compliant with Nature by imitating the patterns in the nature.
 
-In the antient times, from the ceremonies of royalty to a trip of common people, to some extents all the activities of our ancestors were roled by the patterns in the nature.
+In the antient times, from royalty to common people, to some extents all the activities of our ancestors were roled by the patterns in the nature.
 
 The rules about what we need to do and eat in the 24 different seasons throughout a year;
-The rules about 
+The rules about waking up with the sunrise and laying done with the sunset;
+The rules about practicing different exercises in different periods within a day;
+
+...
+
+Obviously, people would have bigger chance to survive by obeying this rules in the pass.
+
+However, it is very interesting that with the resources and technologies provided by modern society today, most Chinese I think still keep these rules in mind -- maybe subconsciously.
+
+
+
+
 
 
 
