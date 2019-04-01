@@ -58,23 +58,31 @@
  
  &nbsp;
  
- #### 1) What I want to do with **_Flocking in the Breath_**
- In the **_Wake Up an Egg 1_**, audiences can just feel that there is something alive inside the egg. 
+ #### 1) What is **_Flocking in the Breath_**
  
- I expect, in the next stage in this "Wake Up" serial, there will be **an eye opening on the egg**.
+Basically it is a project that bulding a connection between the "flocking" patterns in the nature and the the "breath" pattern of ourselves. 
+
+When audiences breath, they will hear the sound of their breath translated to the sound of "flocking" in the nature, and visualized at the same time.
  
  &nbsp;
  
  #### 2) Why do I want to combine "flocking" with "breath"?
  
- Obviously, it is not only because this behavior is logically sound in the "wake up" process in the real life, 
- but also because the attention of people is very easy to be attracted by the face of human, and the most attactive part 
- on the face is eyes.
- 
- I remenber I was so obsessed with drawing different kinds of eyes of people when I was a little kid.
- And oftentimes, I only drew eyes, because that was already enough for me to imagine to what kind of people were these eyes belong.
- 
- So I think it is a good idea to create eyes on my project to personificate it, if I want it relating with audiences emotionally.
+**One in All & All in One**
+
+**一即全， 全即一**
+
+I'm alway interested in one part of Chinese culture, which is ecouraging people to be compliant with Nature by imitating the patterns in the nature.
+
+In the antient times, from the ceremonies of royalty to a trip of common people, to some extents all the activities of our ancestors were roled by the patterns in the nature.
+
+The rules about whe
+In the antient times, from the ceremonies of royalty to a trip of common people, to some extents all the activities of our ancestors were roled by the patterns in the nature.
+
+The rules about what we need to do and eat in the 24 different seasons throughout a year;
+
+
+
   
  &nbsp;
   
