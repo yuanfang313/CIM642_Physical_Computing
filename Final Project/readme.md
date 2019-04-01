@@ -82,7 +82,7 @@ The rules about practicing different exercises in different periods within a day
 
 ...
 
-Obviously, people would have bigger chance to survive by obeying this rules in the pass.
+Obviously, people would have bigger chance to survive by obeying this rules in the past.
 
 However, it is very interesting that with the resources and technologies provided by modern society today, most Chinese I think still keep these rules in mind -- maybe subconsciously.
 
