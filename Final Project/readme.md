@@ -76,10 +76,8 @@ I'm alway interested in one part of Chinese culture, which is ecouraging people 
 
 In the antient times, from the ceremonies of royalty to a trip of common people, to some extents all the activities of our ancestors were roled by the patterns in the nature.
 
-The rules about whe
-In the antient times, from the ceremonies of royalty to a trip of common people, to some extents all the activities of our ancestors were roled by the patterns in the nature.
-
 The rules about what we need to do and eat in the 24 different seasons throughout a year;
+The rules about 
 
 
 
