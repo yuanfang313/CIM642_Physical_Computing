@@ -216,8 +216,13 @@ add new features to a button;
 
 ## Week10_Midterm Paper Prototype
 
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Paper%20Prototype00.png?raw=true)
+
 
 ## Week11_Dimension Worksheet & 3D Printing
+
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/3D%20printing%20parts.JPG?raw=true)
+![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Hw/Animatronic%20Eye%20Movement_prototype.jpg?raw=true)
 
 
 
