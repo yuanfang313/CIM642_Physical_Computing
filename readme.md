@@ -213,6 +213,16 @@ add new features to a button;
 &nbsp;
 ### 0309_One Button Exercise [[Link]](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/note#week08_0307_one-button-exercise)
 
+
+## Week10_Midterm Paper Prototype
+
+
+## Week11_Dimension Worksheet & 3D Printing
+
+
+
+
+
    
      
    
