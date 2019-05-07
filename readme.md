@@ -12,6 +12,8 @@
 * [Week7_Midterm Exercises](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/readme.md#week7_midterm)
 * [Week8_One Button Exercise](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/note#week08_0307_one-button-exercise)
 * [Week9-10 Midterm Project](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Midterm%20Project#midterm-project_wake-up-an-egg)
+* [Week11-17 Final Project](https://github.com/yuanfang313/CIM642_Physical_Computing/tree/master/Final%20Project)
+
 
 ***
 
