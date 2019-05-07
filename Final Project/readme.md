@@ -7,7 +7,12 @@
 &nbsp;
 &nbsp;
 
- * ## Proposal_1.0__Wake Up an Egg 2
+ * ## Proposal_3.0__Play with Animatronic Eyes
+ 
+ **_Play with Animatronic Eyes_** is modified from **_Wake Up an Egg 2_**, for I found that it is really not easy to add animatronic eyes onto a coved face. Therefore, I separate the part of eyes to make it a project that mainly aim at exploring the physical machenism of animatronic eyes.
+ 
+ 
+ * ## Proposal_2.0__Wake Up an Egg 2
  
  &nbsp;
  
@@ -54,7 +59,7 @@
 &nbsp;
 &nbsp; 
  
- * ## Proposal_2.0__Flocking in the Breath
+ * ## Proposal_1.0__Flocking in the Breath
  
  &nbsp;
  
