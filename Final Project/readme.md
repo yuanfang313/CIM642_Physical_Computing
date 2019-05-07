@@ -7,7 +7,9 @@
 &nbsp;
 &nbsp;
 
- * ## Proposal_3.0__Play with Animatronic Eyes
+ # Play with Animatronic Eyes
+ 
+ ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/eyes.png?raw=true)
  
  **_Play with Animatronic Eyes_** is modified from **_Wake Up an Egg 2_**, for I found that it is really not easy to add animatronic eyes onto a coved face. Therefore, I separate the part of eyes to make it a project that mainly aim at exploring the physical machenism of animatronic eyes.
  
@@ -52,7 +54,12 @@
 &nbsp;
    
    ### Assemble Parts
-   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assembled.JPG?raw=true)
+   
+   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assembled_01.jpg?raw=true)
+   
+   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assembled_02.JPG?raw=true)
+   
+
 &nbsp;
 &nbsp;
 &nbsp;  
