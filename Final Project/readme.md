@@ -1,11 +1,3 @@
-# Final Project
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
  # Play with Animatronic Eyes
  
@@ -73,6 +65,12 @@
    
    [![watch the video](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/Video.png?raw=true)](https://youtu.be/lwnY2YahzFc)
    
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
