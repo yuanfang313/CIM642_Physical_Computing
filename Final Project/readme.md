@@ -16,7 +16,7 @@
   The Eyes of human are the part that can express many emotions, which also can easily trigger the emotions of others.
   So if I want to explore the question that how to influence the emotion of my users, make an installation of Animatronic     Eyes is definitely an idea worth trying.
   
- ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/assemble-01.png?raw=true)
+ ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assemble.png?raw=true)
  
  * ### Procedure
  
