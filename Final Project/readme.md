@@ -11,6 +11,33 @@
  
  **_Play with Animatronic Eyes_** is modified from **_Wake Up an Egg 2_**, for I found that it is really not easy to add animatronic eyes onto a coved face. Therefore, I separate the part of eyes to make it a project that mainly aim at exploring the physical machenism of animatronic eyes.
  
+ * ### Concept
+ 
+  The Eyes of human are the part that can express many emotions, which also can easily trigger the emotions of others.
+  So if I want to explore the question that how to influence the emotion of my users, make an installation of Animatronic     Eyes is definitely an idea worth trying.
+  
+ ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/assemble-01.png?raw=true)
+ 
+ * ### Procedure
+ 
+   * #### Modify Model
+   
+  The problems of the original design mainly come form two aspects: 
+  -the distance between 3D printing parts on the plate are too short;
+  -the structure of the joints connecting the upper and lower eyelids are not functionning well with 3D printing;
+  
+  So I made some adjustions.
+  
+   
+   
+   * #### 3D Print
+   
+   * #### Assemble Parts
+   
+   * #### Add Input
+   
+   
+ 
  
  * ## Proposal_2.0__Wake Up an Egg 2
  
@@ -30,7 +57,7 @@
  on the face is eyes.
  
  I remenber I was so obsessed with drawing different kinds of eyes of people when I was a little kid.
- And oftentimes, I only drew eyes, because that was already enough for me to imagine to what kind of people were these eyes belong.
+ And oftentimes, I only drew eyes, because that was already enough for me to imagine what kind of people were these eyes belong to.
  
  So I think it is a good idea to create eyes on my project to personificate it, if I want it relating with audiences emotionally.
   
