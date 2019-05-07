@@ -26,7 +26,7 @@
   -the distance between 3D printing parts on the plate are too short;
   -the structure of the joints connecting the upper and lower eyelids are not functionning well with 3D printing;
   
-  So I made some adjustions.
+  So I made some adjustings.
   
    
    
