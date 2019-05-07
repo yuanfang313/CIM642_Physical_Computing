@@ -20,7 +20,7 @@
  
  * ### Procedure
  
-   * ### Modify Model
+    ### Modify Model
    
   The problems of the original design mainly come form two aspects: 
   -the distance between 3D printing parts on the plate are too short;
@@ -42,19 +42,27 @@
 &nbsp;
 &nbsp;
 
-   * ### 3D Print
-      ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/3d%20printing.jpg?raw=true)
+   ### 3D Print
+   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/3d%20printing.jpg?raw=true)
    
+&nbsp;
+&nbsp;
+&nbsp;
    
-   * #### Assemble Parts
-      ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assembled.JPG?raw=true)
-         
-   * #### Add Input
+   ### Assemble Parts
+   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assembled.JPG?raw=true)
+&nbsp;
+&nbsp;
+&nbsp;  
+
+   ### Add Input
    
    ![Code](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/eyesFinal/eyesFinal.ino)
    
    
+   ### Demo
    
+   [![watch the video](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/Video.png?raw=true)](https://youtu.be/lwnY2YahzFc)
    
  
  
