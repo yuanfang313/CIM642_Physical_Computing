@@ -16,14 +16,16 @@
   The Eyes of human are the part that can express many emotions, which also can easily trigger the emotions of others.
   So if I want to explore the question that how to influence the emotion of my users, make an installation of Animatronic     Eyes is definitely an idea worth trying.
   
- ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/assemble-01.png?raw=true)
+ ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assemble-01.png?raw=true)
  
  * ### Procedure
  
-   * ### Modify Model
+    ### Modify Model
    
   The problems of the original design mainly come form two aspects: 
+  
   -the distance between 3D printing parts on the plate are too short;
+  
   -the structure of the joints connecting the upper and lower eyelids are not functionning well with 3D printing;
   
   So I made some adjustings.
@@ -42,21 +44,33 @@
 &nbsp;
 &nbsp;
 
-   * ### 3D Print
-      ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/3d%20printing.jpg?raw=true)
+   ### 3D Print
+   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/3d%20printing.jpg?raw=true)
    
+&nbsp;
+&nbsp;
+&nbsp;
    
-   * #### Assemble Parts
-      ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assembled.JPG?raw=true)
-         
-   * #### Add Input
+   ### Assemble Parts
+   ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assembled.JPG?raw=true)
+&nbsp;
+&nbsp;
+&nbsp;  
+
+   ### Add Input
    
    ![Code](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/eyesFinal/eyesFinal.ino)
    
    
+   ### Demo
    
+   [![watch the video](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/Video.png?raw=true)](https://youtu.be/lwnY2YahzFc)
    
- 
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  
+ # Other Proposals
  
  * ## Proposal_2.0__Wake Up an Egg 2
  
