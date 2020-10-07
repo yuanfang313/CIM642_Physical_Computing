@@ -1,11 +1,3 @@
-# Final Project
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
  # Play with Animatronic Eyes
  
@@ -18,7 +10,7 @@
   The Eyes of human are the part that can express many emotions, which also can easily trigger the emotions of others.
   So if I want to explore the question that how to influence the emotion of my users, make an installation of Animatronic     Eyes is definitely an idea worth trying.
   
- ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/assemble-01.png?raw=true)
+ ![](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/concept.png?raw=true)
  
  * ### Procedure
  
@@ -73,6 +65,12 @@
    
    [![watch the video](https://github.com/yuanfang313/CIM642_Physical_Computing/blob/master/Final%20Project/Asset/Video.png?raw=true)](https://youtu.be/lwnY2YahzFc)
    
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
